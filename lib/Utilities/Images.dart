@@ -1,0 +1,9 @@
+String error = "assets/images/errorImg.png";
+String loginImage = "assets/images/AAALogin.png";
+String registerImage = "assets/images/Sign up.png";
+String onboardingOne = "assets/images/One.png";
+String onboardingTwo = "assets/images/Two.png";
+String onboardingThree = "assets/images/Three.png";
+String mainLogo = "assets/images/Main Logo.png";
+String mainLogoBlack = "assets/images/Main Logo Black.png";
+String profileImg = "assets/images/profile.png";
